@@ -29,3 +29,9 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+		@Ameya Chavan requested changes, 
+		1. Index.html reduced overall spacing.
+		2. Work/Aristo.html - reduced overall spacing, and cross line before images tab and different color.
+		3.How to do common code in HTML
+		4.carosel implementation
