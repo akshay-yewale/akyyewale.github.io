@@ -35,3 +35,4 @@ Credits:
 		2. Work/Aristo.html - reduced overall spacing, and cross line before images tab and different color.
 		3.How to do common code in HTML
 		4.carosel implementation
+		asjfoiabfkijabol;dnkjasndkiun
